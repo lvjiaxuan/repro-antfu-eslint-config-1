@@ -1,0 +1,11 @@
+{
+  "name": "repro-antfu-eslint-config-1",
+  "type": "module",
+  "scripts": {
+    "v": "nlx eslint-flat-config-viewer"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.6.3",
+    "eslint": "^8.56.0"
+  }
+}
